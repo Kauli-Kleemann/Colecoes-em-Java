@@ -3,5 +3,6 @@ public class App {
         ListExemplos.executar();
         SetExemplos.executar();
         QueueExemplos.executar();
+        DequeExemplos.executar();
     }
 }

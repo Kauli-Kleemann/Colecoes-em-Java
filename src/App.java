@@ -4,5 +4,6 @@ public class App {
         SetExemplos.executar();
         QueueExemplos.executar();
         DequeExemplos.executar();
+        MapExemplos.executar();
     }
 }

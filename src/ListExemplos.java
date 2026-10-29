@@ -68,7 +68,7 @@ public class ListExemplos {
 
         System.out.println("Percorrendo com for tradicional:");
         for (int i = 0; i < numeros.size(); i++) {
-            System.out.println(" - posição" + i + ": " + numeros.get(i));
+            System.out.println(" - posição " + i + ": " + numeros.get(i));
         }
     }
 
